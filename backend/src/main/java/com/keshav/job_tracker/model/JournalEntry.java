@@ -14,6 +14,6 @@ public class JournalEntry {
     private Long id;
 
     private String mood;
-    private String reflection;
+    private String content;
     private LocalDate entryDate;
 }
